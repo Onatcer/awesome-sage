@@ -12,6 +12,7 @@ A curated list of awesome resources for the wordpress starter theme Sage 10
 * [Crumb](https://github.com/Log1x/crumb) - A simple breadcrumb package
 * [Sage WooCommerce](https://github.com/generoi/sage-woocommerce) - Add WooCommerce support to Sage 10.
 * [WP SMTP](https://github.com/Log1x/wp-smtp) - Simple package for handling WordPress SMTP with .env 
+* [Automatic Color Palette Generation](https://github.com/roots/palette-webpack-plugin) - Generates a color palette for the gutenberg editor from your tailwind config or SASS maps.
 
 ## Cheatsheets
 * [ACF Builder Cheatsheet](https://github.com/Log1x/acf-builder-cheatsheet) - A cheatsheet for use with ACF Builder.
